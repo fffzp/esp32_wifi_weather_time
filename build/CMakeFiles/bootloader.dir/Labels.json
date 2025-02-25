@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

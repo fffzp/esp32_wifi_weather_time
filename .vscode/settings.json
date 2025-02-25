@@ -1,0 +1,39 @@
+{
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_event.h": "c",
+        "esp32_s3_szp.h": "c",
+        "esp_lvgl_port.h": "c",
+        "app_ui.h": "c",
+        "gui_guider.h": "c",
+        "stdio.h": "c",
+        "nvs_flash.h": "c",
+        "esp_timer.h": "c",
+        "semaphore.h": "c",
+        "custom.h": "c",
+        "app.h": "c",
+        "widgets_init.h": "c",
+        "event_groups.h": "c",
+        "esp_wifi.h": "c",
+        "esp_http_client.h": "c",
+        "ledc.h": "c",
+        "esp_netif_sntp.h": "c",
+        "time.h": "c",
+        "esp_system.h": "c",
+        "cstdint": "c",
+        "events_init.h": "c",
+        "weather.h": "c",
+        "time_sync.h": "c",
+        "semphr.h": "c",
+        "cjson.h": "c",
+        "lvgl.h": "c",
+        "i2s_std.h": "c",
+        "es8311.h": "c",
+        "guitask.h": "c",
+        "audio.h": "c"
+    }
+}

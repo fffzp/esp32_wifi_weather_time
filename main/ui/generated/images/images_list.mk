@@ -1,0 +1,1 @@
+GEN_CSRCS += _weather_qing_alpha_92x95.c _yu1_alpha_92x95.c _duoyun_alpha_92x95.c _leidian_alpha_92x95.c _yin_alpha_92x95.c _weather_qing_alpha_95x95.c

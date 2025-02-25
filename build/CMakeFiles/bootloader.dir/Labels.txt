@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/CMakeFiles/bootloader
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/CMakeFiles/bootloader.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/CMakeFiles/bootloader-complete.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/My_embeded_project/esp32s3/10_wifi_weather_time_version6/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
